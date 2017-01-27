@@ -1,0 +1,1 @@
+2017/01/27 10:58:47 [emerg] 3004#0: open() "/home/mike/nginx/logs/nginx.pid" failed (13: Permission denied)
